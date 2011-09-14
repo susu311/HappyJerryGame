@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  
+  <Asset Type="System.String">
+    <Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <allCharacters>
+        <character>
+          <name>InvisibleObject</name>
+          <position>
+            <X>0</X>
+            <Y>0</Y>
+          </position>
+          <greeting>Choose a word</greeting>
+          <scale>0.4</scale>
+          <textureAsset>Run</textureAsset>
+        </character>
+      </allCharacters>
+     </Level>
+  </Asset>
+</XnaContent>

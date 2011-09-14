@@ -1,0 +1,117 @@
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Run.xnb
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\sprite.xnb
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thegarden.xnb
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thehouse.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Run.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\sprite.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thegarden.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thehouse.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\final_House.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\4Sprites+in1.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Run.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\sprite.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thegarden.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thehouse.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\final_House.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\4Sprites+in1.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Arial.xnb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Level.xml
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\example.xml
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\fridgeMenu.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\fridgeMenu.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Level.xml
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\example.xml
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\PianoMenu.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Run.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\sprite.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thegarden.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\thehouse.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\final_House.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\4Sprites+in1.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\fridgeMenu.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\PianoMenu.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Arial.xnb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\Level.xml
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\example.xml
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\bin\x86\Debug\Content\house3.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\4Sprites+in1.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\PianoMenu.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\Arial.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\Level.xml
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\example.xml
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+Z:\Programming\C#\Demo0424\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming\C#\Demo0424\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Programming\C#\Demo0424\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+Z:\Programming\C#\Demo0424\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\blood.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\SimpleBody.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\Finalhouse.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\monkey.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\welcomePage.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\blank.xnb
+Z:\Programming\C#\Demo0424\HappyJerryGame\bin\x86\Debug\Content\Congratulation.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\4Sprites+in1.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\PianoMenu.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\blood.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\SimpleBody.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Finalhouse.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\monkey.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\welcomePage.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\blank.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Congratulation.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\welcomePage2.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Arial.xnb
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Level.xml
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\Content\example.xml
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+Z:\Programming\C#\Demo0515\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+Z:\Programming\C#\Demo0515\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming\C#\Demo0515\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Programming\C#\Demo0515\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+Z:\Programming\C#\Demo0515\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\4Sprites+in1.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\PianoMenu.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\blood.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\SimpleBody.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Finalhouse.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\monkey.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\welcomePage.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\blank.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\welcomePage2.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Congratulation.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Arial.xnb
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\Level.xml
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\Content\example.xml
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\HappyJerryGame.exe
+E:\Demo0515\HappyJerryGame\bin\x86\Debug\HappyJerryGame.pdb
+E:\Demo0515\HappyJerryGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Demo0515\HappyJerryGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Demo0515\HappyJerryGame\obj\x86\Debug\HappyJerryGame.exe
+E:\Demo0515\HappyJerryGame\obj\x86\Debug\HappyJerryGame.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <allCharacters>
+    <character>
+      <position>
+        <X>100</X>
+        <Y>0</Y>
+      </position>
+      <greeting>Choose a word</greeting>
+      <scale>0.4</scale>
+      <textureAsset>Run</textureAsset>
+    </character>
+    
+  </allCharacters>
+</Level>

@@ -1,0 +1,7 @@
+h:\Private\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Acer\My Documents\Visual Studio 2008\Projects\HappyJerryGame\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\21.4.2009\HappyJerryGame\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming\C#\SuSu\HappyJerryGame\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming\C#\Demo0424\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming\C#\Demo0515\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Demo0515\HappyJerryGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
